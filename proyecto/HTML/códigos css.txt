@@ -1,0 +1,67 @@
+font-family
+font-weight
+font-size
+border
+width
+height
+margin: (top-bottom-left-right)
+padding
+text-align
+background-color: (puede ser en [RGB] de 3 valores de variación separados por comas; en hexadecimal y nombre del color en inglés)
+color: (lo mismo que en el color de fondo)
+display: (block o inline-block)
+list-style
+float
+*{}: selctor de body
+clear:(both)
+
+
+
+    <body> para el contenido
+    <head> para información sobre el documento
+    <div> división dentro del contenido
+    <a> para enlaces
+    <strong> para poner el texto en negrita
+    <br> para saltos de línea
+    <H1>…<H6> para títulos dentro del contenido
+    <img> para añadir imágenes al documento
+    <ol> para listas ordenadas, <ul> para listas desordenadas, <li> para elementos dentro de la lista
+    <p> para parágrafos
+    <span> para estilos de una parte del texto
+
+
+
+
+    <div id="miembros" class="p-5 piedp-color mt-4">
+        
+            <div class="row">
+                <h2 class="text-center text-shadow text-white">Miembros del grupo</h2>
+            </div>
+            <div class="row row-col-2 row-col-sm-2 row-col-md-4">
+                <div class="col-sm">
+                    <img src="imgs/depresión_zhb6f6.webp" alt="" width="100px" height="150px" class="w-100 miembros">
+                    <div class="text-center"><span class="miembro-nombre h5 p-2">Ángel Araujo</span></div>
+                </div>
+                <div class="col-sm">
+                    <img src="imgs/depresión_zhb6f6.webp" alt="" width="100px" height="150px" class="w-100 miembros">
+                    <div class="text-center"><span class="miembro-nombre  h5 p-2">Jade Gonzalez</span></div>
+                </div>
+                <div class="col-sm">
+                    <img src="imgs/depresión_zhb6f6.webp" alt="" width="100px" height="150px" class="w-100 miembros">
+                    <div class="text-center"><span class="miembro-nombre h5 p-2">Alba López</span></div>
+                </div>
+            </div>
+              <div class="row">
+                <div class="col-sm col-4">
+                    <img src="imgs/depresión_zhb6f6.webp" alt="" width="100px" height="150px" class="w-100 miembros">
+                    <div class="text-center"><span class="miembro-nombre  h5 p-2">Sabrina Torres</span></div>
+                </div> 
+                <div class="col-sm-4"></div>
+                <div class="col-sm col-4">
+                    <img src="imgs/depresión_zhb6f6.webp" alt="" width="100px" height="150px" class="w-100 miembros">
+                    <div class="text-center"><span class="miembro-nombre  h5 p-2">Elias Villalba</span></div>
+                </div> 
+            </div>
+        </div>    
+    
+                                

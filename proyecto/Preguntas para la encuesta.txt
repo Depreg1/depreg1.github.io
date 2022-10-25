@@ -1,0 +1,32 @@
+*Preguntas*
+1ER OBJETIVO
+	- ¿Sabes lo que es HTML?
+	- ¿Conoces las etiquetas básicas de HTML?
+	- ¿Sabes para qué sirven los atributos de HTML?
+	- ¿Alguna vez trabajaste con HTML?
+	- ¿Sabes para que se utiliza CSS?
+	- ¿Conoces cuales son las propiedades escenciales de CSS?
+	- ¿Alguna vez incorporaste las propiedades de
+	CSS a una página web?
+2DO OBJETIVO
+	- ¿Conoces sobre la depresión?
+	- ¿Sabes cuáles son los síntomas de la depresión?
+	- ¿Conoces a alquien con depresión?
+	- ¿En algún momento de tu vida sufriste de depresión?
+	- ¿Tienes conocimiento sobre cuáles son los factores
+	de riesgo sobre el trastorno de la depresión?
+	- ¿Sabes cuáles son las conductas de conportamiento para
+	identificar a alguien con depresión?
+	- ¿Sabes como tratar a una persona con depresión?
+3ER OBJETIVO
+	- ¿Sabes cuál es la labor del psicólogo?
+	- ¿Alguna vez consultaste con el psicólogo?
+	- ¿Conoces a alguien que siente miedo de visitar
+	al psicólogo?
+	- ¿Te han dicho algo malo sobre visitar al psicólogo?
+	- ¿Has leido sobre los trastornos mentales en páginas
+	informativas en la web?
+	- ¿Crees que consultar al psicólogo, es solo para
+	personas con problemas mentales?
+	- ¿Recomendarías a alguien que este bajo una sobrecarga emocional, que consulte
+	al psicólogo?
